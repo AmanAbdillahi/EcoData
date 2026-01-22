@@ -20,7 +20,7 @@ Application Android native permettant la surveillance en temps réel de la conso
 
 ### 📸 Captures d'écran
 
-//*(Ajoutez ici vos screenshots de l'application)*
+
 
 ---
 
