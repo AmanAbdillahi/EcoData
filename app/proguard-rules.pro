@@ -1,0 +1,2 @@
+-keep class com.example.ecodonnees.** { *; }
+-keepclassmembers class com.example.ecodonnees.** { *; }
