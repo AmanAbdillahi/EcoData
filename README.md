@@ -20,6 +20,14 @@ Application Android native permettant la surveillance en temps réel de la conso
 
 ### 📸 Captures d'écran
 
+![WhatsApp Image 2026-01-23 at 14 48 17](https://github.com/user-attachments/assets/473efd66-2264-4743-8d6b-77f8bf8c5fd3)
+
+![WhatsApp Image 2026-01-23 at 14 48 16](https://github.com/user-attachments/assets/87dd7f00-bb0c-4774-9770-ceb80e8ead33)
+
+![WhatsApp Image 2026-01-23 at 14 48 16 (1)](https://github.com/user-attachments/assets/49e86fa6-c69a-4901-89ef-077d040c77fa)
+
+![WhatsApp Image 2026-01-23 at 14 48 15](https://github.com/user-attachments/assets/76ffd1c8-71ed-4348-8ae1-2571f11611a9)
+
 
 
 ---
